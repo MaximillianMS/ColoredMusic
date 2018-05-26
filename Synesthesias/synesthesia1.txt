@@ -1,0 +1,13 @@
+#Nesterov's sound-color synesthesia #1
+#See below Hue values for white keys starting from the lowest octave to the highest (1-9). 
+[
+[,],
+[,,,,,,],
+[,,,,,,],
+[,,,,,,],
+[60,0,238,40,115,303,180],
+[,,,,,,],
+[,,,,,,],
+[,,,,,,],
+[],
+]
